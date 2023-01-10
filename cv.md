@@ -1,6 +1,6 @@
 # **Yauheniy Aleshko** #
-##Frontend developer##
-##Contacts:##
+## Frontend developer ##
+## Contacts: ##
 
-###Phone:### +375 29 563-90-64
-###E-mail:### aleshko.info@gmail.com
+### Phone: ### +375 29 563-90-64
+### E-mail: ### aleshko.info@gmail.com
