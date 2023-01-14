@@ -5,7 +5,8 @@
 ### Phone:  +375 29 563-90-64
 ### E-mail:  aleshko.info@gmail.com
 
-### About me  Novice frontend developer
+### About me  
+Novice frontend developer
 
 
 ### Scills  
