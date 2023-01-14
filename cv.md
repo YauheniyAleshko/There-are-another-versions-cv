@@ -6,20 +6,33 @@
 ### E-mail:  aleshko.info@gmail.com
 
 ### About me  
-Novice frontend developer
+Novice frontend developer.
+I’m learner driven by the desire to gain new skills and expertise. I love to create 
+something new that will bring joy and benefit to people. 
+I am very self-organized and creative. This in turn gives me an advantage over any 
+other candidate. Ready to take on any challenge and overcome my limited experience 
+in order to become a valued frontend development specialist 
 
+### Professional skills: 
+- HTML, CSS, Javascript, php (introductory); 
+- Photoshop, figma; 
+- Windows, Linux; 
+- Bootstrap;
+- Git, github;
+- FileZilla client;
 
-### Scills  
-fdfdfddfd
-
-### Example code  
-dfsfsfsd
+### The examples of a non-profit projects: 
+-[https://yauheniyaleshko.github.io/Kamchatka-project/]
+-[https://yauheniyaleshko.github.io/Form-project/]
+-[https://yauheniyaleshko.github.io/Site-game/]
 
 ### Work expirience  
 fdfss
 
 ### Education  
-fdsfsdsfs dfsfdsfs fddsfsd
+Programming school “My it school” 
 
-### English level  
-fsffsdd fdfdsds fdfsd bdnfbdbs gtiorperodfhfyth
+### Language proficiency:
+Russian(great), Belarussian(strong), Ukrainian(spoken), 
+English (primary, able to conduct business correspondence using a dictionary) 
+
