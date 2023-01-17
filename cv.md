@@ -23,11 +23,11 @@ in order to become a valued frontend development specialist
 
 ### The examples of a non-profit projects: 
 
--[landing site](https://yauheniyaleshko.github.io/Kamchatka-project/)
+- [Landing site](https://yauheniyaleshko.github.io/Kamchatka-project/)
 
--[https://yauheniyaleshko.github.io/Form-project/]
+- [Dynamic form](https://yauheniyaleshko.github.io/Form-project/)
 
--[https://yauheniyaleshko.github.io/Site-game/]
+- [Сard game](https://yauheniyaleshko.github.io/Site-game/)
 
 ### Work expirience  
 fdfss
