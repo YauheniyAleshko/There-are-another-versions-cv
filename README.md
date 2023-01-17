@@ -1,2 +1,3 @@
 # rsschool-cv
-https://yauheniyaleshko.github.io/rsschool-cv/cv
+https://aleshkoyauheniy.github.io/rsschool-cv/
+
