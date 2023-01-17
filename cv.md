@@ -22,7 +22,7 @@ in order to become a valued frontend development specialist
 - FileZilla client;
 
 ### The examples of a non-profit projects: 
--[https://yauheniyaleshko.github.io/Kamchatka-project/]
+-[landing site](https://yauheniyaleshko.github.io/Kamchatka-project/)
 -[https://yauheniyaleshko.github.io/Form-project/]
 -[https://yauheniyaleshko.github.io/Site-game/]
 
